@@ -1,0 +1,17 @@
+{
+  "channels": {
+    "discord": {
+      "enabled": true,
+      "token": "YOUR_BOT_TOKEN",
+      "groupPolicy": "allowlist",
+      "guilds": {
+        "1476217073528082505": {
+          "requireMention": true,
+          "channels": {
+            "1476217074010554379": { "allow": true }
+          }
+        }
+      }
+    }
+  }
+}
